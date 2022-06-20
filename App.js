@@ -34,7 +34,7 @@ function AuthStack() {
   return (
     <Stack.Navigator>
       <Stack.Screen name="Login" component={Login} />
-      <Stack.Screen name="Chat" component={Chat} />
+      <Stack.Screen name="Signup" component={Signup} />
     </Stack.Navigator>
   );
 }
