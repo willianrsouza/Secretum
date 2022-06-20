@@ -4,9 +4,9 @@ import { createStackNavigator } from "@react-navigation/stack";
 import { View, ActivityIndicator } from "react-native";
 import { getAuth, onAuthStateChanged } from "firebase/auth";
 import { auth } from "./config/firebase";
-import Login from "./Components/LoginScreen/LoginScreen";
-import Signup from "./Components/RegisterScreen/RegisterScreen";
-import Chat from "./Components/ChatScreen/ChatScreen";
+import Login from "./components/LoginScreen/LoginScreen";
+import Signup from "./components/RegisterScreen/RegisterScreen";
+import Chat from "./components/ChatScreen/ChatScreen";
 import "react-native-gesture-handler";
 
 const Stack = createStackNavigator();
@@ -32,7 +32,7 @@ function ChatStack() {
 
 function AuthStack() {
   return (
-    <Stack.Navigator>
+    <Stack.Navigator screenOptions={{ headerTitleAlign: "center" }}>
       <Stack.Screen name="Login" component={Login} />
       <Stack.Screen name="Signup" component={Signup} />
     </Stack.Navigator>
