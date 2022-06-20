@@ -15,7 +15,7 @@
   </a>
 
   <a href="">
-    <img alt="Obter no Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+    <img alt="Obter no Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140" border-radius=10px>
   </a>
 </p>
 
