@@ -35,8 +35,7 @@
 ## Introdução
 
 [![Status da compilação](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point )
-[![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git- ponto)
-[![Todos os contribuidores](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
+[![Todos os contribuidores](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
@@ -86,8 +85,6 @@ Sinta-se à vontade para nos enviar comentários no Linkedin ou reportar algum p
 - As chaves utilizadas:  [Firebase](https://console.firebase.google.com/), sinta-se a vontade para altera-las para o seu ambiente.
 
 **Tecnologias**:
-
-Algumas das coisas que você pode fazer com o GitPoint:
 
 * React Native
 * Firebase Authentication
