@@ -94,4 +94,3 @@ Algumas das coisas que você pode fazer com o GitPoint:
 * Firebase Database
 
 
-<a href="https://opencollective.com/gi
