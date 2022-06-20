@@ -49,20 +49,13 @@ Visualize as informações do repositório e do usuário, controle suas notifica
   <img src = "https://raw.githubusercontent.com/willianrsouza/Secretum/master/build-images/Chat.png?token=GHSAT0AAAAAABVWPGM6FA4KRCWB23A4QKNMYVQQ3FQ" largura=350>
 </p>
 
-## Características
-
+## Características / Tecnologias
 
 Algumas das coisas que você pode fazer com o GitPoint:
 
-* Veja o feed de atividades do usuário
-* Comunique-se sobre seu problema e puxe conversas de solicitação
-* Fechar ou bloquear problemas
-* Aplicar rótulos e responsáveis
-* Revisar e mesclar solicitações de pull
-* Criar novos problemas
-* Repositórios Star, Watch e Fork
-* Controle suas notificações não lidas e participantes
-* Pesquise facilmente por qualquer usuário ou repositório
+* React Native
+* Firebase Authentication
+* Firebase Database
 
 ## Login
 
@@ -78,14 +71,11 @@ Algumas das coisas que você pode fazer com o GitPoint:
 
 ## Comentários
 
+Sinta-se à vontade para nos enviar comentários no Linkedin ou reportar algum problema, você pode contribuir. Estamos abertos a debates, projetos sinta-se à vontade para me chamar!
 
-Sinta-se à vontade para nos enviar comentários no [Linkedin](https://www.linkedin.com/in/willianrsouza/) ou reportar um problema. Solicitações de recursos são sempre bem-vindas. Se você deseja contribuir, desenvolver algum projeto together, acesso o meu [Instagram] (https://www.instagram.com/willovell/).
+## Desenvolvedores
 
-Se houver algo sobre o qual você gostaria de conversar, sinta-se à vontade para me chamar!
-
-## Contribuintes
-
-[Bernardo Pernes](https://www.linkedin.com/in/bernardo-pernes-b248161ba/), [Vitor Azevedo](https://www.linkedin.com/in/vitorsazevedo/)
+[Bernardo Pernes](https://www.linkedin.com/in/bernardo-pernes-b248161ba/), [Vitor Azevedo](https://www.linkedin.com/in/vitorsazevedo/), [Willian](https://www.linkedin.com/in/willianrsouza/)
 
 ## Processo de build
 
@@ -99,6 +89,6 @@ Se houver algo sobre o qual você gostaria de conversar, sinta-se à vontade par
 
 **Chaves de desenvolvimento**:
 
-- As chaves utilizadas envolvem o [Firebase] (https://console.firebase.google.com/), sinta-se a vontade para altera-las para o seu ambiente.
+- As chaves utilizadas:  [Firebase](https://console.firebase.google.com/), sinta-se a vontade para altera-las para o seu ambiente.
 
 <a href="https://opencollective.com/gi
