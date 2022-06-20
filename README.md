@@ -50,7 +50,7 @@
 ## Chat's Screen
 
 <p align="center">
-  <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Chat.png?raw=true" width=300>
+  <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Chat.png?raw=true" width=400>
 </p>
 
 
