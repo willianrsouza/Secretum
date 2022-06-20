@@ -1,7 +1,7 @@
 <h1 align="center"> Secretum Project </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="Snake" title="GitPoint" src="https://png.pngtree.com/element_pic/16/12/18/6038477f764f548b652dd388e240dca7.jpg" width="450">
+    <img alt="Snake" title="GitPoint" src="https://www.vipre.com/wp-content/uploads/2017/04/vipre-snake-icon.png" width="450">
   </a>
 </p>
 
