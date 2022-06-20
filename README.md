@@ -1,4 +1,4 @@
-<h1 align="center"> Secretum Project </h1> <br>
+<h1 align="center"> Secretum Chat </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
     <img alt="Snake" title="GitPoint" src="https://www.vipre.com/wp-content/uploads/2017/04/vipre-snake-icon.png" width="300">
@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
+  <a href="">
     <img alt="Baixe na App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
 
-  <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
+  <a href="">
     <img alt="Obter no Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
 </p>
@@ -64,16 +64,16 @@ Algumas das coisas que você pode fazer com o GitPoint:
 * Controle suas notificações não lidas e participantes
 * Pesquise facilmente por qualquer usuário ou repositório
 
-## Login Screen
+## Login
 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/79064410/174617125-eb32c7f9-0f2b-4e97-a347-6c77329278dd.png" largura=700>
+  <img src = "https://user-images.githubusercontent.com/79064410/174617125-eb32c7f9-0f2b-4e97-a347-6c77329278dd.png" largura=400>
 </p>
 
-## Signup Screen
+## Signup
 
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/willianrsouza/Secretum/master/build-images/Signup.png?token=GHSAT0AAAAAABVWPGM742AXOYF4S2JYL42CYVQRIKQ" largura=700>
+  <img src = "https://raw.githubusercontent.com/willianrsouza/Secretum/master/build-images/Signup.png?token=GHSAT0AAAAAABVWPGM742AXOYF4S2JYL42CYVQRIKQ" largura=400>
 </p>
 
 ## Comentários
@@ -89,12 +89,12 @@ Se houver algo sobre o qual você gostaria de conversar, sinta-se à vontade par
 
 ## Processo de build
 
-- Clone o repositório
-- `yarn` ou `npm` para instalar dependências
--  Execute o emulador `Android` ou `IOS`
-- `expo start:android` para iniciar o empacotador e executar o aplicativo no simulador iOS 
-- `expo start:ios` para iniciar o empacotador e executar o aplicativo no dispositivo/emulador Android 
-- `expo start` para build web
+-  Clone the repository
+- `yarn` or `npm` to install dependencies
+-  Run `Android` or `IOS` emulator
+- `expo start:android` to start the packer and run the app in the iOS simulator
+- `expo start:ios` to start the packer and run the app on Android device/emulator
+- `expo start` for web build
 
 
 **Chaves de desenvolvimento**:
