@@ -25,8 +25,8 @@
 
 - [Introdução](#introdução)
 - [Recursos](#recursos)
-- [Comentários](#feedback)
-- [Contribuintes](#contribuidores)
+- [Comentários](#Comentários)
+- [Desenvolvedores](#Desenvolvedores)
 - [Processo de compilação](#build-process)
 
 
