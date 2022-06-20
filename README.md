@@ -67,7 +67,7 @@ Sinta-se à vontade para nos enviar comentários no Linkedin ou reportar algum p
 
 ## Desenvolvedores
 
-[Bernardo Pernes](https://www.linkedin.com/in/bernardo-pernes-b248161ba/), [Vitor Azevedo](https://www.linkedin.com/in/vitorsazevedo/), [Willian](https://www.linkedin.com/in/willianrsouza/)
+[Bernardo Pernes](https://www.linkedin.com/in/bernardo-pernes-b248161ba/), [Vitor Azevedo](https://www.linkedin.com/in/vitorsazevedo/), [Willian (Eu)](https://www.linkedin.com/in/willianrsouza/)
 
 ## Processo de build
 
