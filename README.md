@@ -32,7 +32,6 @@
 
 <!-- END docdoc gerado TOC, por favor, mantenha o comentário aqui para permitir a atualização automática -->
 
-## Introdução
 
 [![Todos os contribuidores](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
