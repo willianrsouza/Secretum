@@ -49,13 +49,7 @@ Visualize as informações do repositório e do usuário, controle suas notifica
   <img src = "https://raw.githubusercontent.com/willianrsouza/Secretum/master/build-images/Chat.png?token=GHSAT0AAAAAABVWPGM6FA4KRCWB23A4QKNMYVQQ3FQ" largura=350>
 </p>
 
-## Características / Tecnologias
-
-Algumas das coisas que você pode fazer com o GitPoint:
-
-* React Native
-* Firebase Authentication
-* Firebase Database
+## Características 
 
 ## Login
 
@@ -87,8 +81,17 @@ Sinta-se à vontade para nos enviar comentários no Linkedin ou reportar algum p
 - `expo start` for web build
 
 
-**Chaves de desenvolvimento**:
+**Chaves de desenvolvimento
 
 - As chaves utilizadas:  [Firebase](https://console.firebase.google.com/), sinta-se a vontade para altera-las para o seu ambiente.
+
+**Tecnologias**:
+
+Algumas das coisas que você pode fazer com o GitPoint:
+
+* React Native
+* Firebase Authentication
+* Firebase Database
+
 
 <a href="https://opencollective.com/gi
