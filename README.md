@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Developed by Tessera Project
+  Developed by Tessera.
 </p>
 
 <p align="center">
@@ -38,10 +38,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
-
-Visualize as informações do repositório e do usuário, controle suas notificações e até mesmo gerencie seus problemas e solicitações de pull. Construído com React Native, o GitPoint é um dos clientes não oficiais do GitHub mais ricos em recursos, 100% gratuito.
-
-** Learn once, write anywhere**
 
 ## Login Screen
 
