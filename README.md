@@ -27,7 +27,8 @@
 - [Recursos](#recursos)
 - [Comentários](#Comentários)
 - [Desenvolvedores](#Desenvolvedores)
-- [Processo de compilação](#build-process)
+- [Processo de compilação](#Processo de build)
+- [Tecnologias](#Tecnologias)
 
 
 <!-- END docdoc gerado TOC, por favor, mantenha o comentário aqui para permitir a atualização automática -->
