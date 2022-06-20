@@ -1,4 +1,4 @@
-<h1 align="center"> Secretum Chat </h1> <br>
+<h1 align="center"> Secretum </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
     <img alt="Snake" title="GitPoint" src="https://www.vipre.com/wp-content/uploads/2017/04/vipre-snake-icon.png" width="300">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  GitHub no seu bolso. Construído com React Native.
+  Developed by Tessera Project
 </p>
 
 <p align="center">
