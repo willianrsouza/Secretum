@@ -42,15 +42,15 @@
 ##  Login Screen / Signup Screen 
 
 <p align="center">
-  <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Login.png?raw=true" largura=200>
-   <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Signup.png?raw=true" largura=200>
+  <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Login.png?raw=true" width=300>
+   <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Signup.png?raw=true" width=300>
 </p>
 
 
 ## Chat's Screen
 
 <p align="center">
-  <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Chat.png?raw=true" largura=200>
+  <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Chat.png?raw=true" width=300>
 </p>
 
 
