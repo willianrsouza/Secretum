@@ -85,7 +85,7 @@ Se houver algo sobre o qual você gostaria de conversar, sinta-se à vontade par
 
 ## Contribuintes
 
-[Bernardo Pernes] (https://www.linkedin.com/in/bernardo-pernes-b248161ba/), [Vitor Azevedo] (https://www.linkedin.com/in/vitorsazevedo/)
+[Bernardo Pernes](https://www.linkedin.com/in/bernardo-pernes-b248161ba/), [Vitor Azevedo](https://www.linkedin.com/in/vitorsazevedo/)
 
 ## Processo de build
 
