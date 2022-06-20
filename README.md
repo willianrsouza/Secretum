@@ -27,7 +27,7 @@
 - [Recursos](#recursos)
 - [Comentários](#Comentários)
 - [Desenvolvedores](#Desenvolvedores)
-- [Processo de compilação](#Processo de build)
+- [Processo de compilação](#Build)
 - [Tecnologias](#Tecnologias)
 
 
@@ -66,7 +66,7 @@ Sinta-se à vontade para nos enviar comentários no Linkedin ou reportar algum p
 
 [Bernardo Pernes](https://www.linkedin.com/in/bernardo-pernes-b248161ba/), [Vitor Azevedo](https://www.linkedin.com/in/vitorsazevedo/), [Willian (Eu)](https://www.linkedin.com/in/willianrsouza/)
 
-## Processo de build
+## Build
 
 -  Clone the repository
 - `yarn` or `npm` to install dependencies
