@@ -1,7 +1,7 @@
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> Secretum Project </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
+    <img alt="Snake" title="GitPoint" src="https://png.pngtree.com/element_pic/16/12/18/6038477f764f548b652dd388e240dca7.jpg" width="450">
   </a>
 </p>
 
@@ -28,9 +28,7 @@
 - [Comentários](#feedback)
 - [Contribuintes](#contribuidores)
 - [Processo de compilação](#build-process)
-- [Apoiadores](#apoiadores-)
-- [Patrocinadores](#patrocinadores-)
-- [Agradecimentos](#agradecimentos)
+
 
 <!-- END docdoc gerado TOC, por favor, mantenha o comentário aqui para permitir a atualização automática -->
 
@@ -45,13 +43,14 @@
 
 Visualize as informações do repositório e do usuário, controle suas notificações e até mesmo gerencie seus problemas e solicitações de pull. Construído com React Native, o GitPoint é um dos clientes não oficiais do GitHub mais ricos em recursos, 100% gratuito.
 
-**Disponível para iOS e Android.**
+** Learn once, write anywhere**
 
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" largura=350>
+  <img src = "https://raw.githubusercontent.com/willianrsouza/Secretum/master/build-images/Chat.png?token=GHSAT0AAAAAABVWPGM6FA4KRCWB23A4QKNMYVQQ3FQ" largura=350>
 </p>
 
 ## Características
+
 
 Algumas das coisas que você pode fazer com o GitPoint:
 
@@ -65,39 +64,41 @@ Algumas das coisas que você pode fazer com o GitPoint:
 * Controle suas notificações não lidas e participantes
 * Pesquise facilmente por qualquer usuário ou repositório
 
-<p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" largura=700>
-</p>
+## Login Screen
 
 <p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" largura=700>
+  <img src = "https://user-images.githubusercontent.com/79064410/174617125-eb32c7f9-0f2b-4e97-a347-6c77329278dd.png" largura=700>
+</p>
+
+## Signup Screen
+
+<p align="center">
+  <img src = "https://raw.githubusercontent.com/willianrsouza/Secretum/master/build-images/Signup.png?token=GHSAT0AAAAAABVWPGM742AXOYF4S2JYL42CYVQRIKQ" largura=700>
 </p>
 
 ## Comentários
 
-Sinta-se à vontade para nos enviar comentários no [Twitter](https://twitter.com/gitpointapp) ou [registrar um problema](https://github.com/gitpoint/git-point/issues/new). Solicitações de recursos são sempre bem-vindas. Se você deseja contribuir, dê uma olhada rápida nas [diretrizes](./CONTRIBUTING.md)!
 
-Se houver algo sobre o qual você gostaria de conversar, sinta-se à vontade para participar do nosso [chat Gitter](https://gitter.im/git-point)!
+Sinta-se à vontade para nos enviar comentários no [Linkedin](https://www.linkedin.com/in/willianrsouza/) ou reportar um problema. Solicitações de recursos são sempre bem-vindas. Se você deseja contribuir, desenvolver algum projeto together, acesso o meu [Instagram] (https://www.instagram.com/willovell/).
+
+Se houver algo sobre o qual você gostaria de conversar, sinta-se à vontade para me chamar!
 
 ## Contribuintes
 
-Este projeto segue a especificação [all-contributors](https://github.com/kentcdodds/all-contributors) e é trazido a você por esses [contribuidores incríveis](./CONTRIBUTORS.md).
+[Bernardo Pernes] (https://www.linkedin.com/in/bernardo-pernes-b248161ba/), [Vitor Azevedo] (https://www.linkedin.com/in/vitorsazevedo/)
 
-## Processo de construção
+## Processo de build
 
-- Siga o [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) para começar a construir um projeto com código nativo. **É necessário um Mac se você deseja desenvolver para iOS.**
-- Clone ou baixe o repositório
-- `yarn` para instalar dependências
-- `yarn run link` para vincular dependências nativas de reação
-- `yarn start:ios` para iniciar o empacotador e executar o aplicativo no simulador iOS (`yarn start:ios:logger` inicializará o aplicativo com [redux-logger](<https://github.com/evgenyrodionov/ redux-logger>))
-- `yarn start:android` para iniciar o empacotador e executar o aplicativo no dispositivo/emulador Android (`yarn start:android:logger` inicializará o aplicativo com [redux-logger](https://github.com/ evgenyrodionov/redux-logger))
+- Clone o repositório
+- `yarn` ou `npm` para instalar dependências
+-  Execute o emulador `Android` ou `IOS`
+- `expo start:android` para iniciar o empacotador e executar o aplicativo no simulador iOS 
+- `expo start:ios` para iniciar o empacotador e executar o aplicativo no dispositivo/emulador Android 
+- `expo start` para build web
 
-Consulte as [diretrizes de contribuição](./CONTRIBUTING.md) para obter um processo detalhado sobre como criar seu aplicativo, bem como informações sobre solução de problemas.
 
-**Chaves de desenvolvimento**: O `CLIENT_ID` e o `CLIENT_SECRET` em `api/index.js` são para fins de desenvolvimento e não representam as chaves reais do aplicativo. Sinta-se à vontade para usá-los ou usar um novo conjunto de chaves criando um [aplicativo OAuth](https://github.com/settings/applications/new) próprio. Defina o "URL de retorno de chamada de autorização" para `gitpoint://welcome`.
+**Chaves de desenvolvimento**:
 
-## Apoiadores [![Apoiadores no Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
-
-Obrigado a todos os nossos apoiadores! 🙏 [[Torne-se um apoiador](https://opencollective.com/git-point#backer)]
+- As chaves utilizadas envolvem o [Firebase] (https://console.firebase.google.com/), sinta-se a vontade para altera-las para o seu ambiente.
 
 <a href="https://opencollective.com/gi
