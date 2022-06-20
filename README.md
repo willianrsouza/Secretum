@@ -54,7 +54,7 @@
 ## Chat Screen
 
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/willianrsouza/Secretum/master/build-images/Chat.png?token=GHSAT0AAAAAABVWPGM6FA4KRCWB23A4QKNMYVQQ3FQ" largura=400>
+  
 </p>
 
 
