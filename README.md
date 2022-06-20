@@ -39,18 +39,13 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
-## Login Screen
+##  Login Screen / Signup Screen 
 
 <p align="center">
   <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Login.png?raw=true" largura=200>
    <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Signup.png?raw=true" largura=200>
 </p>
 
-## Signup Screen
-
-<p align="center">
- 
-</p>
 
 ## Chat's Screen
 
