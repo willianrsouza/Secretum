@@ -51,10 +51,10 @@
   <img src = "https://raw.githubusercontent.com/willianrsouza/Secretum/master/build-images/Signup.png?token=GHSAT0AAAAAABVWPGM742AXOYF4S2JYL42CYVQRIKQ" largura=400>
 </p>
 
-## Chat Screen
+## Chat's Screen
 
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/willianrsouza/Secretum/master/build-images/Chat.png?token=GHSAT0AAAAAABVWPGM6FA4KRCWB23A4QKNMYVQQ3FQ" largura=400>
+  <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Chat.png?raw=true" largura=400>
 </p>
 
 
