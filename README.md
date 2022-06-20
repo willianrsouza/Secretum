@@ -79,11 +79,11 @@ Sinta-se à vontade para nos enviar comentários no Linkedin ou reportar algum p
 - `expo start` for web build
 
 
-**Chaves de desenvolvimento
+## Chaves de desenvolvimento
 
 - As chaves utilizadas:  [Firebase](https://console.firebase.google.com/), sinta-se a vontade para altera-las para o seu ambiente.
 
-**Tecnologias**:
+## Tecnologias
 
 * React Native
 * Firebase Authentication
