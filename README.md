@@ -1,4 +1,4 @@
-<h1 align="center"> Secretum Project</h1> <br>
+<h1 align="center"> Secretum Chat</h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
     <img alt="Snake" title="GitPoint" src="https://www.vipre.com/wp-content/uploads/2017/04/vipre-snake-icon.png" width="300">
@@ -39,22 +39,18 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
-## Login Screen
+##  Login Screen / Signup Screen 
 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/79064410/174617125-eb32c7f9-0f2b-4e97-a347-6c77329278dd.png" largura=300>
+  <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Login.png?raw=true" width=250>
+   <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Signup.png?raw=true" width=250>
 </p>
 
-## Signup Screen
-
-<p align="center">
-  <img src = "https://raw.githubusercontent.com/willianrsouza/Secretum/master/build-images/Signup.png?token=GHSAT0AAAAAABVWPGM742AXOYF4S2JYL42CYVQRIKQ" largura=300>
-</p>
 
 ## Chat's Screen
 
 <p align="center">
-  <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Chat.png?raw=true" largura=300>
+  <img src = "https://github.com/willianrsouza/Secretum/blob/master/build-images/Chat.png?raw=true" width=500>
 </p>
 
 
